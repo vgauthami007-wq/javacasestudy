@@ -143,4 +143,3 @@ Built as a Java OOP Case Study at Amrita School of Engineering.
 
 ---
 
-<p align="center">Made with ☕ Java and a lot of <code>ArrayList</code>s</p>
